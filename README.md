@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! 👋 I'm Niroj Bhattarai</h1>
-<h3 align="center">Aspiring Full-Stack Developer | 🌱 Learning JavaScript, ReactJS, NodeJS</h3>
+<h3 align="center">Aspiring Full-Stack Developer | 🌱 Learning JavaScript, ReactJS, NodeJS, PostgreSQL, MongoDB</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nirojbhattarai" target="_blank"><img src="https://img.shields.io/badge/-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn"></a>
   <a href="mailto:neerajbhhtri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20me-red?style=for-the-badge&logo=gmail" alt="Email me"></a>
 </p>
 
-<p align="center">🎓 Pursuing Bachelor's in Computer Science @ Tribhuvan University</p>
-<p align="center">💻 Passionate about JavaScript, ReactJS, NodeJS, HTML, CSS, Bootstrap, and Tailwind CSS</p>
+<p align="center">🎓 Completed Bachelor's of Science in Computer Science and Information Technology (B.Sc.CSIT) @ Tribhuvan University</p>
+<p align="center">💻 Passionate about JavaScript, ReactJS, NodeJS,PostgreSQL, MongoDB, Bootstrap, and Tailwind CSS</p>
 <p align="center">🚀 Actively crafting engaging projects and aspiring to excel as a full-stack developer</p>
 
 <p align="center">✨ Excited to connect with fellow professionals, enthusiasts, and potential collaborators</p>
