@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Niroj Bhattarai</h1>
-<h3 align="center">Full-Stack Developer | 🌱 Learning JavaScript, ReactJS, NodeJS, PostgreSQL, MongoDB</h3>
+<h3 align="center">Full-Stack Developer | 🌱 JavaScript, ReactJS, NodeJS, PostgreSQL, MongoDB</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nirojbhattarai" target="_blank"><img src="https://img.shields.io/badge/-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn"></a>
