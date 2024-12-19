@@ -6,8 +6,8 @@
   <a href="mailto:neerajbhhtri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20me-red?style=for-the-badge&logo=gmail" alt="Email me"></a>
 </p>
 
-<p align="center">🎓 Completed Bachelor's of Science in Computer Science and Information Technology (B.Sc.CSIT) @ Tribhuvan University</p>
-<p align="center">💻 Proficient in JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, MongoDB, Bootstrap, and Tailwind CSS</p>
+<p align="center">🎓 Bachelor's of Science in Computer Science and Information Technology (B.Sc.CSIT) @ Tribhuvan University</p>
+<p align="center">💻 Proficient in JavaScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, MongoDB, Tailwind CSS and Bootstrap</p>
 <p align="center">🚀 Actively crafting engaging projects to excel as a full-stack developer</p>
 
 <p align="center">✨ Excited to connect with fellow professionals, enthusiasts, and potential collaborators</p>
