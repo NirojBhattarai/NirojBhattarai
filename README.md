@@ -16,7 +16,7 @@
   🎓 <strong>Bachelor's of Science in Computer Science and Information Technology (B.Sc.CSIT)</strong> @ Tribhuvan University
 </p>
 <p align="center">
-  💻 Proficient in <strong>JavaScript, TypeScript, ReactJS, NodeJS, ExpressJS, PostgreSQL, MongoDB, Tailwind CSS, and Bootstrap</strong>
+  💻 Proficient in <strong>JavaScript, TypeScript, ReactJS,  NodeJS, Redux, ExpressJS, PostgreSQL, MongoDB and Tailwind CSS</strong>
 </p>
 <p align="center">
   🚀 Passionate about building engaging web applications and continually improving my skills as a full-stack developer.
