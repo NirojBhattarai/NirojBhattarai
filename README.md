@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Niroj Bhattarai</h1>
-<h3 align="center">Full-Stack Developer | 🌱 JavaScript, NextJS, TypeScript, ReactJS, NodeJS, PostgreSQL, MongoDB</h3>
+<h3 align="center">Software Engineer | 🌱 JavaScript,TypeScript, NextJS, ReactJS, NodeJS, PostgreSQL, MongoDB</h3>
 
 
 <p align="center">
