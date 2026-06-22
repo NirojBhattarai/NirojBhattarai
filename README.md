@@ -19,7 +19,7 @@
 
 ---
 
-B.Sc. CSIT graduate from Tribhuvan University passionate about building fast, scalable, and maintainable fulL-stack web applications.
+B.Sc. CSIT graduate from Tribhuvan University passionate about building fast, scalable, and maintainable full-stack web applications.
 
 I work across the full stack, primarily with TypeScript, Node.js, React, and PostgreSQL, focusing on clean architecture, modular design, and production-ready systems. I enjoy building complex admin dashboards, CMS platforms, and real-world applications where structure and scalability matter.
 
