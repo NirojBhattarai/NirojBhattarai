@@ -25,7 +25,7 @@ I work across the full stack, primarily with TypeScript, Node.js, React, and Pos
 
 Currently deepening my expertise in advanced React patterns, backend system design, and modern full-stack tooling, with a strong focus on writing clean, type-safe, and maintainable code.
 
-Always learning, improving, and building things that solve real problem.
+Always learning, improving, and building things that solve real problems.
 
 ---
 
